@@ -1,6 +1,4 @@
-#include <unordered_map>
 #include <vector>
-#include <iostream>
 using namespace std;
 
 class Solution {
@@ -9,7 +7,7 @@ class Solution {
       {
             int left = 0, right = height.size()-1, maxContainerSize = 0, containerSize;
 
-            for(int i = 0; i < height.size()-1; ++i)
+            while(left < right)
             {
                   containerSize = (right - left) * min(height[left], height[right]);
                   maxContainerSize = max(maxContainerSize, containerSize);
@@ -23,8 +21,6 @@ class Solution {
                         ++left;
                   }
             }
-
             return maxContainerSize;
       }
 };
-
