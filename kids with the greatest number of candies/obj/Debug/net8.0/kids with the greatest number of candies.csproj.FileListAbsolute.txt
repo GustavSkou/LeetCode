@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\bin\Debug\net8.0\kids with the greatest number of candies.exe
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\bin\Debug\net8.0\kids with the greatest number of candies.deps.json
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\bin\Debug\net8.0\kids with the greatest number of candies.runtimeconfig.json
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\bin\Debug\net8.0\kids with the greatest number of candies.dll
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\bin\Debug\net8.0\kids with the greatest number of candies.pdb
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.AssemblyInfo.cs
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.sourcelink.json
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.dll
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\refint\kids with the greatest number of candies.dll
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.pdb
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\kids with the greatest number of candies.genruntimeconfig.cache
+C:\Users\gusta\Desktop\leetcode\kids with the greatest number of candies\obj\Debug\net8.0\ref\kids with the greatest number of candies.dll
