@@ -1,0 +1,15 @@
+c:\Users\gusta\Desktop\leetCode\medium C#\bin\Debug\net8.0\medium C#.exe
+C:\Users\gusta\Desktop\leetCode\medium C#\bin\Debug\net8.0\medium C#.deps.json
+C:\Users\gusta\Desktop\leetCode\medium C#\bin\Debug\net8.0\medium C#.runtimeconfig.json
+c:\Users\gusta\Desktop\leetCode\medium C#\bin\Debug\net8.0\medium C#.dll
+c:\Users\gusta\Desktop\leetCode\medium C#\bin\Debug\net8.0\medium C#.pdb
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.AssemblyInfoInputs.cache
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.AssemblyInfo.cs
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.csproj.CoreCompileInputs.cache
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.sourcelink.json
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.dll
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\refint\medium C#.dll
+c:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.pdb
+C:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\medium C#.genruntimeconfig.cache
+C:\Users\gusta\Desktop\leetCode\medium C#\obj\Debug\net8.0\ref\medium C#.dll
